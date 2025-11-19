@@ -1,5 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently working on / Şu anda üzerinde çalıştığım:<br><br>Developing Python projects and learning web development.<br><br>Python projeleri geliştiriyorum ve web geliştirmeyi öğreniyorum.<br><br>🤝 I’m looking to collaborate on / İş birliği yapmak istediğim:<br><br>Open-source AI projects or fun coding challenges.<br><br>Açık kaynaklı yapay zeka projeleri veya eğlenceli kodlama görevleri.<br><br><br>👯 I’m looking for help with / Yardım aradığım:<br><br>Improving my English and understanding advanced Python libraries.<br><br>İngilizcemi geliştirmek ve ileri Python kütüphanelerini öğrenmek.<br><br><br>⚡ Fun fact / Eğlenceli bilgi:<br><br>I love to walk in nature and take photos of sunsets.<br><br>Doğada yürümeyi ve gün batımlarının fotoğrafını çekmeyi çok severim.
+🎓 Studying / Eğitimim:  
+Pursuing a degree in Computer Engineering at Tokat Gaziosmanpaşa University.  
+Tokat Gaziosmanpaşa Üniversitesi’nde Bilgisayar Mühendisliği okuyorum.  
+
 
 
 ## 🌐 Socials:
